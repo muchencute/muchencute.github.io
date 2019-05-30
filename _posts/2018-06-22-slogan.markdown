@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "匠心打磨"
+title:  "用匠心精神去认真对待每一件事"
 date:   2018-06-22 15:01:44 +0800
 categories: 新闻
 ---
