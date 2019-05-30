@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+公司成立于 2015 年 7 月，致力于营销类网站及软件系统开发和服务，以公司标准化产品为基础，提供任意程度的定制化软件开发、长期维护和升级服务。目前的主要客户分布在中国、美国、香港和日本等国家和地区，主要分布的行业为教育培训、管理咨询、市场研究和仓储物流等。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+公司的愿景是长期与稳定的与客户共赢，共同探索商机，展开在更多领域和更深层次的合作。
